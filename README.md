@@ -4,4 +4,4 @@ Finally. A to-do list that prints out your trello cards like orders that come in
 Built by Eunice Lee and Pam Assogba
 <br>
 
-![alt text](example.gif| width=80%)
+![alt text](example.gif =500x)

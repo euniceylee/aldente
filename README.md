@@ -1,5 +1,6 @@
-# Aldente
-Finally. A to-do list that prints out your trello cards like orders that come in a chef's kitchen. Once complete, feel the satisfaction of your accomplishment by stabbing the order through a spindle. 
+# Al-dente
+Finally. A raspberry pi powered to-do list that prints out your trello cards like orders that enter a chef's kitchen. Once complete, stab the order and feel the satisfaction of your accomplishment.
+<br>
 <br>
 Built by Eunice Lee and Pam Assogba
 <br>

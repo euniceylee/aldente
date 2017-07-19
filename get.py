@@ -47,7 +47,7 @@ def job():
 	f= open('tasks.txt', 'r+')
 	f.truncate()
 
-# schedule job to run the code every 5 seconds
+# schedule job to run the code every 2 seconds
 schedule.every(2).seconds.do(job)
 
 # run task when app is ran via the python shell

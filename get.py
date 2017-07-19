@@ -2,10 +2,10 @@
 # before the trello package works, make sure to install it: https://pypi.python.org/pypi/trello
 from trello import TrelloApi
 
-# in our case, this package helps us interact with files
+# in our case, this package helps us interact with files. More info here https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
 import os
 
-# this package is necessary to trigger the printing command from our application
+# this package is necessary to trigger the printing command from our application. More info here https://pythonspot.com/en/python-subprocess/
 from subprocess import call
 
 # import scheduling packages
